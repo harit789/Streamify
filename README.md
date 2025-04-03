@@ -2,13 +2,13 @@
 Streamify is a professional and modern web application for streaming videos. It provides users with an intuitive experience to search, play, and manage their favorite podcasts while offering an admin panel for content moderation and management.
 
 ## 📌 Table of Contents
-- Features
-- Getting Started
-- Technologies Used
-- Installation & Setup
-- GitHub Information
-- Contributing
-- License
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+- [Technologies Used](#-technologies-used)
+- [Installation & Setup](#-installation--setup)
+- [GitHub Information](#-github-information)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🚀 Features
 - Secure Authentication using Google Auth & Firebase
